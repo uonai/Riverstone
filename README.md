@@ -6,5 +6,6 @@ Riverstone is a small Spark Photon that I am building out as an environment sens
 * Todo: configure CO, Alcohol, and VOC gas sensor
 * Todo: configure Digital Temperature and Humidity measure sensor
 * Todo: configure Dust sensor
+* Todo: configure Solar Panel
 
 ![Riverstone](riverstone.jpg)
